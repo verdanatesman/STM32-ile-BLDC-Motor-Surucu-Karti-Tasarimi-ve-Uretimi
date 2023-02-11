@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:20:41 On 15.03.2021
+
+Output: Save As/Export Schematic
+Type  : Universal Exporter
+From  : Schematic Document [Sheet1.SchDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 16:20:41 On 15.03.2021
